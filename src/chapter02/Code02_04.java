@@ -12,7 +12,6 @@ public class Code02_04 {
 
         System.out.printf("%d + %d = %d\n", a, b, c);
 
-
         int result = b - a ;
         System.out.println(result);
         System.out.printf("%d - %d = %d\n", b, a, result);
