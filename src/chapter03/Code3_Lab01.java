@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Code3_Lab01 {
     public static void main(String[] args) {
+
+       // 내가 짠 코드
         double lb = 0.543592;
         double kg = 2.204623;
 
