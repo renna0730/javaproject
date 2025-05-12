@@ -7,5 +7,11 @@ public class ForTest6 {
                 System.out.printf("인공지능소프트웨어 알고리즘 실습 수업: (i: %d, j: %d)\n", i, j);
             }
         }
+
+
+
+
+
+
     }
 }
